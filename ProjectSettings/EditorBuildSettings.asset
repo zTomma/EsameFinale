@@ -62,7 +62,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Aspoc.unity
     guid: b7daa9f0bc04392429e1ff8faca114b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Aspoc 1.unity
     guid: 7513cb813bfc1fb4abbdc4f165481601
   m_configObjects:

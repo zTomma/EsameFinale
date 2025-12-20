@@ -46,26 +46,14 @@
         "name": "Animation",
         "dependencies": [
           {
-            "name": "AnimationClip",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
             "name": "Animator",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AnimatorController",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 1,
             "icon": null
           },
@@ -77,20 +65,12 @@
           },
           {
             "name": "Avatar",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "IConstraint",
-            "scenes": [],
-            "dependencyType": 1,
-            "icon": null
-          },
-          {
-            "name": "Motion",
             "scenes": [],
             "dependencyType": 1,
             "icon": null
@@ -141,9 +121,7 @@
           },
           {
             "name": "AudioListener",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -194,9 +172,7 @@
           },
           {
             "name": "Camera",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -496,9 +472,7 @@
           },
           {
             "name": "SkinnedMeshRenderer",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -510,9 +484,7 @@
           },
           {
             "name": "SortingGroup",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -532,9 +504,7 @@
           },
           {
             "name": "SpriteRenderer",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -1061,9 +1031,7 @@
           },
           {
             "name": "CapsuleCollider",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -1127,9 +1095,7 @@
           },
           {
             "name": "SphereCollider",
-            "scenes": [
-              "Assets/Aspoc.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },

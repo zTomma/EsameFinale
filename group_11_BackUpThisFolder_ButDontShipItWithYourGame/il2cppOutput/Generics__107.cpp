@@ -33996,7 +33996,7 @@ IL2CPP_EXTERN_C  bool KVPair_2_GetKeyValue_m43218BA6923AF63C42703F1422152DA79874
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 130311
+// Method Definition Index: 130211
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m06071A5B9FED6E89ABD86F7AA48048169EAC05A5_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, const RuntimeMethod* method) 
 {
 	{
@@ -34006,7 +34006,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m06071A5B9FED6E89ABD8
 		return;
 	}
 }
-// Method Definition Index: 130312
+// Method Definition Index: 130212
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m47A3664DDCE776A84E9B8D32CEF7496B36788057_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, int32_t ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -34023,7 +34023,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m47A3664DDCE776A84E9B
 		return;
 	}
 }
-// Method Definition Index: 130313
+// Method Definition Index: 130213
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* KdTreeNode_2_get_Item_mEA3CB2F2969097D74B941EC2264134F20059272A_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, int32_t ___0_compare, const RuntimeMethod* method) 
 {
 	{
@@ -34047,7 +34047,7 @@ IL_000b:
 		return L_2;
 	}
 }
-// Method Definition Index: 130314
+// Method Definition Index: 130214
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2_set_Item_mDF98B8C0338332F05E5E784C7DCFA22BE1D0634F_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, int32_t ___0_compare, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -34076,7 +34076,7 @@ IL_000c:
 		return;
 	}
 }
-// Method Definition Index: 130315
+// Method Definition Index: 130215
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool KdTreeNode_2_get_IsLeaf_mBE13681A5CC4D2D723B1CCC8AA8EA30349F7A7A3_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, const RuntimeMethod* method) 
 {
 	{
@@ -34097,7 +34097,7 @@ IL_0012:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 130316
+// Method Definition Index: 130216
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2_AddDuplicate_m19BD2462488648C0975599F5A6033A08CFAB5E56_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -34132,7 +34132,7 @@ IL_001b:
 		return;
 	}
 }
-// Method Definition Index: 130317
+// Method Definition Index: 130217
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* KdTreeNode_2_ToString_m6469E7CACF31377DB016C65E6E4B1DDBCE860DEA_gshared (KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -34217,7 +34217,7 @@ IL_006c:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 130311
+// Method Definition Index: 130211
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m3F41B80F21F5A38845941015BB02CB53C3ECB84B_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -34227,7 +34227,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_m3F41B80F21F5A3884594
 		return;
 	}
 }
-// Method Definition Index: 130312
+// Method Definition Index: 130212
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_mB59A0A365D0B6A9BB202B182DDE8C249F10B35A2_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, __Il2CppFullySharedGenericTypeU5BU5D_tCAB6D060972DD49223A834B7EEFEB9FE2D003BEC* ___0_point, Il2CppFullySharedGenericAny ___1_value, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TValue_tD5F6B2B7018F528FF5911ED37AD98AC818D3AFD8 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 2));
@@ -34245,7 +34245,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2__ctor_mB59A0A365D0B6A9BB202
 		return;
 	}
 }
-// Method Definition Index: 130313
+// Method Definition Index: 130213
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* KdTreeNode_2_get_Item_mE658CF945DA28387625F9F788A507C68D1A52441_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, int32_t ___0_compare, const RuntimeMethod* method) 
 {
 	{
@@ -34269,7 +34269,7 @@ IL_000b:
 		return L_2;
 	}
 }
-// Method Definition Index: 130314
+// Method Definition Index: 130214
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2_set_Item_m351C5D8D4AF0063C9F102DA5C2561CCCA38E3C61_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, int32_t ___0_compare, KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -34296,7 +34296,7 @@ IL_000c:
 		return;
 	}
 }
-// Method Definition Index: 130315
+// Method Definition Index: 130215
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool KdTreeNode_2_get_IsLeaf_m52D546EB5D516F5C666CB8D08846001D696868EC_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -34317,7 +34317,7 @@ IL_0012:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 130316
+// Method Definition Index: 130216
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTreeNode_2_AddDuplicate_m36C181C0051490163EF8D326C556CA94ABBB7FE6_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, Il2CppFullySharedGenericAny ___0_value, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TValue_tD5F6B2B7018F528FF5911ED37AD98AC818D3AFD8 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 2));
@@ -34354,7 +34354,7 @@ IL_001b:
 		return;
 	}
 }
-// Method Definition Index: 130317
+// Method Definition Index: 130217
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* KdTreeNode_2_ToString_mF94B4B298820DD2B442B5BABABD718568141170A_gshared (KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -34455,7 +34455,7 @@ IL_006c:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 130274
+// Method Definition Index: 130174
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2__ctor_m575431546B27158A42576FD4582BA1516A822E1C_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_dimensions, RuntimeObject* ___1_typeMath, const RuntimeMethod* method) 
 {
 	{
@@ -34474,7 +34474,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2__ctor_m575431546B27158A42576FD4
 		return;
 	}
 }
-// Method Definition Index: 130275
+// Method Definition Index: 130175
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2__ctor_m4B10A0B7918A9EAF4809384929156689271CC6D7_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_dimensions, RuntimeObject* ___1_typeMath, int32_t ___2_addDuplicateBehavior, const RuntimeMethod* method) 
 {
 	{
@@ -34489,7 +34489,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2__ctor_m4B10A0B7918A9EAF48093849
 		return;
 	}
 }
-// Method Definition Index: 130276
+// Method Definition Index: 130176
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KdTree_2_get_AddDuplicateBehavior_mF54F336FF693DB5901AFD55D4106C626CB1E032C_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -34498,7 +34498,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KdTree_2_get_AddDuplicateBehavior_mF5
 		return L_0;
 	}
 }
-// Method Definition Index: 130277
+// Method Definition Index: 130177
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_set_AddDuplicateBehavior_mC8484F99900D52B62DB590F5064DA976E9F45A26_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -34508,7 +34508,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_set_AddDuplicateBehavior_mC8484
 		return;
 	}
 }
-// Method Definition Index: 130278
+// Method Definition Index: 130178
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool KdTree_2_Add_m61D32C3C87994BF1B4EE230694C5F9A84502A835_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, int32_t ___1_value, const RuntimeMethod* method) 
 {
 	KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* V_0 = NULL;
@@ -34712,7 +34712,7 @@ IL_00cf:
 		return (bool)1;
 	}
 }
-// Method Definition Index: 130279
+// Method Definition Index: 130179
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_ReadChildNodes_mC15ED2F836BFB194334CBA496A4B9C2C736D9A0A_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_removedNode, const RuntimeMethod* method) 
 {
 	Queue_1_t57DDD8BD79E8DA2913E938B1046D5CAB9222DEDF* V_0 = NULL;
@@ -34911,7 +34911,7 @@ IL_00b1:
 		return;
 	}
 }
-// Method Definition Index: 130280
+// Method Definition Index: 130180
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_RemoveAt_mBEF6B71CBDE7B10B0E171BADAEDE3D0704E40FC7_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, const RuntimeMethod* method) 
 {
 	KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* V_0 = NULL;
@@ -35087,7 +35087,7 @@ IL_00d2:
 		return;
 	}
 }
-// Method Definition Index: 130281
+// Method Definition Index: 130181
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KdTreeNode_2U5BU5D_t06D14A9A46DE34E3CD5FA61D7AAA6890C2190B41* KdTree_2_GetNearestNeighbours_m7D93FC06E04F4DE699AF4C7C893192813A9D126B_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, int32_t ___1_count, const RuntimeMethod* method) 
 {
 	NearestNeighbourList_2_t2A3E8A159402A74C70E34D13C478890614DECF3A* V_0 = NULL;
@@ -35216,7 +35216,7 @@ IL_0088:
 		return L_31;
 	}
 }
-// Method Definition Index: 130282
+// Method Definition Index: 130182
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_AddNearestNeighbours_m38E474F1B856AB6B1E51DD9FFFEE613DEDCE626F_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___1_target, HyperRect_1_t7E2D1CFAB0A6B5EDF7FA61FEFF80D9A42637F81E ___2_rect, int32_t ___3_depth, NearestNeighbourList_2_t2A3E8A159402A74C70E34D13C478890614DECF3A* ___4_nearestNeighbours, float ___5_maxSearchRadiusSquared, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -35579,7 +35579,7 @@ IL_0169:
 		return;
 	}
 }
-// Method Definition Index: 130283
+// Method Definition Index: 130183
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KdTreeNode_2U5BU5D_t06D14A9A46DE34E3CD5FA61D7AAA6890C2190B41* KdTree_2_RadialSearch_m49893F36D9C622C1F4679098F5567A269147E1D1_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_center, float ___1_radius, int32_t ___2_count, const RuntimeMethod* method) 
 {
 	NearestNeighbourList_2_t2A3E8A159402A74C70E34D13C478890614DECF3A* V_0 = NULL;
@@ -35662,7 +35662,7 @@ IL_005e:
 		return L_25;
 	}
 }
-// Method Definition Index: 130284
+// Method Definition Index: 130184
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KdTree_2_get_Count_m7CC32CD3557AC51D70DE692C9CE79928992D1371_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -35671,7 +35671,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KdTree_2_get_Count_m7CC32CD3557AC51D7
 		return L_0;
 	}
 }
-// Method Definition Index: 130285
+// Method Definition Index: 130185
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_set_Count_mEF413E70C39EB2BE439C6E3F8B9B77E43F15DE2D_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -35681,7 +35681,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_set_Count_mEF413E70C39EB2BE439C
 		return;
 	}
 }
-// Method Definition Index: 130286
+// Method Definition Index: 130186
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool KdTree_2_TryFindValueAt_m02094585073FD9E32DA9AECBE5CD73A7E741A2C4_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, int32_t* ___1_value, const RuntimeMethod* method) 
 {
 	KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* V_0 = NULL;
@@ -35774,7 +35774,7 @@ IL_0037:
 		goto IL_0009;
 	}
 }
-// Method Definition Index: 130287
+// Method Definition Index: 130187
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KdTree_2_FindValueAt_mEC238E84BF9DAB91CD85B08DD9062807EE643ADB_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_point, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -35803,7 +35803,7 @@ IL_000d:
 		return L_3;
 	}
 }
-// Method Definition Index: 130288
+// Method Definition Index: 130188
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool KdTree_2_TryFindValue_m46B0E97C5228505DC6D7EEFF60FF899616FF8FED_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C** ___1_point, const RuntimeMethod* method) 
 {
 	Queue_1_t57DDD8BD79E8DA2913E938B1046D5CAB9222DEDF* V_0 = NULL;
@@ -35944,7 +35944,7 @@ IL_0069:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 130289
+// Method Definition Index: 130189
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* KdTree_2_FindValue_m17AEF4AAE8555F32697F204C107FAAF94EF2DD46_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* V_0 = NULL;
@@ -35970,7 +35970,7 @@ IL_000d:
 		return (SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C*)NULL;
 	}
 }
-// Method Definition Index: 130290
+// Method Definition Index: 130190
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_AddNodeToStringBuilder_m8438CFD395D5FA5D358545D7C37A6340AB899D2E_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, StringBuilder_t* ___1_sb, int32_t ___2_depth, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -36114,7 +36114,7 @@ IL_006c:
 		return;
 	}
 }
-// Method Definition Index: 130291
+// Method Definition Index: 130191
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* KdTree_2_ToString_m225CC892E2059FE1F797E99E5D88B16734DB851A_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -36156,7 +36156,7 @@ IL_000e:
 		return L_5;
 	}
 }
-// Method Definition Index: 130292
+// Method Definition Index: 130192
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_AddNodesToList_mF4BD9E506372A87F7F4A80D84D3E0902314B92EE_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, List_1_t06C370B6C4130DCF1E3CBF787A5E06E7ACEE5660* ___1_nodes, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -36235,7 +36235,7 @@ IL_0032:
 		return;
 	}
 }
-// Method Definition Index: 130293
+// Method Definition Index: 130193
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_SortNodesArray_mD9A6F4E2A7720A1CD93DB000B197D2C739826DFD_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2U5BU5D_t06D14A9A46DE34E3CD5FA61D7AAA6890C2190B41* ___0_nodes, int32_t ___1_byDimension, int32_t ___2_fromIndex, int32_t ___3_toIndex, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -36336,7 +36336,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 130294
+// Method Definition Index: 130194
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_AddNodesBalanced_mC863A0D168C9ACE7774C8629216ECF46A6CE79B4_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2U5BU5D_t06D14A9A46DE34E3CD5FA61D7AAA6890C2190B41* ___0_nodes, int32_t ___1_byDimension, int32_t ___2_fromIndex, int32_t ___3_toIndex, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -36469,7 +36469,7 @@ IL_008d:
 		return;
 	}
 }
-// Method Definition Index: 130295
+// Method Definition Index: 130195
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_Balance_m8785FBB26243675D2294F6AAEDC6B802CC4D6697_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	List_1_t06C370B6C4130DCF1E3CBF787A5E06E7ACEE5660* V_0 = NULL;
@@ -36498,7 +36498,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_Balance_m8785FBB26243675D2294F6
 		return;
 	}
 }
-// Method Definition Index: 130296
+// Method Definition Index: 130196
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_RemoveChildNodes_mA5419EA759D77CEB810F6E88757BAEAE94EBA7E6_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -36557,7 +36557,7 @@ IL_0026:
 		return;
 	}
 }
-// Method Definition Index: 130297
+// Method Definition Index: 130197
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_Clear_m34C147D14238AD007F2550D378B8016448A66C5E_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -36580,7 +36580,7 @@ IL_0014:
 		return;
 	}
 }
-// Method Definition Index: 130298
+// Method Definition Index: 130198
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KdTree_2_SaveToFile_m58BA8D759629E2125152AEDB95544C89F325772D_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, String_t* ___0_filename, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -36654,7 +36654,7 @@ IL_0027:
 		return;
 	}
 }
-// Method Definition Index: 130299
+// Method Definition Index: 130199
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* KdTree_2_LoadFromFile_m439E195A0912067BCB92355AACC0B05FC6D4B999_gshared (String_t* ___0_filename, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -36727,7 +36727,7 @@ IL_0027:
 		return L_8;
 	}
 }
-// Method Definition Index: 130300
+// Method Definition Index: 130200
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* KdTree_2_GetEnumerator_mA1B38618CA61F569D3FF426C5A5D8007C57CCA63_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -36740,7 +36740,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* KdTree_2_GetEnumerator_mA1B386
 		return (RuntimeObject*)L_1;
 	}
 }
-// Method Definition Index: 130301
+// Method Definition Index: 130201
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* KdTree_2_System_Collections_IEnumerable_GetEnumerator_mC140DE74D2D78FA5341281C9B4DF29AE18A512C3_gshared (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -37391,7 +37391,7 @@ IL_0034:
 		return;
 	}
 }
-// Method Definition Index: 130285
+// Method Definition Index: 130185
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void KdTree_2_set_Count_mEF413E70C39EB2BE439C6E3F8B9B77E43F15DE2D_gshared_inline (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -37401,7 +37401,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void KdTree_2_set_Count_mEF413E70
 		return;
 	}
 }
-// Method Definition Index: 130277
+// Method Definition Index: 130177
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void KdTree_2_set_AddDuplicateBehavior_mC8484F99900D52B62DB590F5064DA976E9F45A26_gshared_inline (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -37411,7 +37411,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void KdTree_2_set_AddDuplicateBeh
 		return;
 	}
 }
-// Method Definition Index: 130276
+// Method Definition Index: 130176
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t KdTree_2_get_AddDuplicateBehavior_mF54F336FF693DB5901AFD55D4106C626CB1E032C_gshared_inline (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -37420,7 +37420,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t KdTree_2_get_AddDuplicate
 		return L_0;
 	}
 }
-// Method Definition Index: 130284
+// Method Definition Index: 130184
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t KdTree_2_get_Count_m7CC32CD3557AC51D70DE692C9CE79928992D1371_gshared_inline (KdTree_2_t9693FAF888D188CBAE78ECCB375C4DDCD87068CC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -37437,7 +37437,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Queue_1_get_Count_m1768AD
 		return L_0;
 	}
 }
-// Method Definition Index: 130255
+// Method Definition Index: 130155
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* HyperRect_1_get_MaxPoint_m6BB3F2F8ACA5748E919CFB82F334758A632519AF_gshared_inline (HyperRect_1_t7E2D1CFAB0A6B5EDF7FA61FEFF80D9A42637F81E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -37446,7 +37446,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB585701
 		return L_0;
 	}
 }
-// Method Definition Index: 130253
+// Method Definition Index: 130153
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* HyperRect_1_get_MinPoint_m693F4A3AA4E74CE7B05F47ED74B644ED4B9C2E25_gshared_inline (HyperRect_1_t7E2D1CFAB0A6B5EDF7FA61FEFF80D9A42637F81E* __this, const RuntimeMethod* method) 
 {
 	{

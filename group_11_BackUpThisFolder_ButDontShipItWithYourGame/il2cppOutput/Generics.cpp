@@ -40951,7 +40951,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass27_0_U3CAddMenuItem
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 130302
+// Method Definition Index: 130202
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0__ctor_mA1CC78FE80088592A959124D1054577D81E3C141_gshared (U3CU3Ec__DisplayClass33_0_t16A406CB958F4627AF753B9632B6D6C23E0041E8* __this, const RuntimeMethod* method) 
 {
 	{
@@ -40959,7 +40959,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0__ctor_mA1CC78F
 		return;
 	}
 }
-// Method Definition Index: 130303
+// Method Definition Index: 130203
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0_U3CGetEnumeratorU3Eb__0_m6FED4F0601CF9D15CD74779BB691C569265B80DF_gshared (U3CU3Ec__DisplayClass33_0_t16A406CB958F4627AF753B9632B6D6C23E0041E8* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, const RuntimeMethod* method) 
 {
 	{
@@ -40988,7 +40988,7 @@ IL_0019:
 		return;
 	}
 }
-// Method Definition Index: 130304
+// Method Definition Index: 130204
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0_U3CGetEnumeratorU3Eb__1_mCA1058824ADA7AB651AD69EBDCFA119509859711_gshared (U3CU3Ec__DisplayClass33_0_t16A406CB958F4627AF753B9632B6D6C23E0041E8* __this, KdTreeNode_2_t72430ACC884CC11DBFEB13A4C49FD3833A831798* ___0_node, const RuntimeMethod* method) 
 {
 	{
@@ -41025,7 +41025,7 @@ IL_0019:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 130302
+// Method Definition Index: 130202
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0__ctor_m1966B162FFEA8A7AF95436ED964624ED4F5E64AB_gshared (U3CU3Ec__DisplayClass33_0_t5D95DAE5BE1DFA570AB8CD1787C6F4B6BFCA0774* __this, const RuntimeMethod* method) 
 {
 	{
@@ -41033,7 +41033,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0__ctor_m1966B16
 		return;
 	}
 }
-// Method Definition Index: 130303
+// Method Definition Index: 130203
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0_U3CGetEnumeratorU3Eb__0_m37C2257125D05565F2FA5C07752870BE0FBB6832_gshared (U3CU3Ec__DisplayClass33_0_t5D95DAE5BE1DFA570AB8CD1787C6F4B6BFCA0774* __this, KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* ___0_node, const RuntimeMethod* method) 
 {
 	{
@@ -41060,7 +41060,7 @@ IL_0019:
 		return;
 	}
 }
-// Method Definition Index: 130304
+// Method Definition Index: 130204
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass33_0_U3CGetEnumeratorU3Eb__1_m404CF082BA14C83900E7A56B70EE43C4A48CBDB5_gshared (U3CU3Ec__DisplayClass33_0_t5D95DAE5BE1DFA570AB8CD1787C6F4B6BFCA0774* __this, KdTreeNode_2_t3B3E1B870331CB803DBF7FE3FE4FC06D92C58DD3* ___0_node, const RuntimeMethod* method) 
 {
 	{

@@ -315,7 +315,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeHelpers_InitializeArray_m751372AA
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 131020
+// Method Definition Index: 130920
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void changeScenes_GoToAspocOne_m7D4B487E8DF41ACEB0FAD2BA51E8928B27C6B045 (changeScenes_t06D4F973ADDAB16014AD358D15F91B1DA5EFD70D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -333,7 +333,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void changeScenes_GoToAspocOne_m7D4B487E8DF41
 		return;
 	}
 }
-// Method Definition Index: 131021
+// Method Definition Index: 130921
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void changeScenes__ctor_m9FB3FCA9B123CE3B8DC44FEC025A7D6BDE1364A5 (changeScenes_t06D4F973ADDAB16014AD358D15F91B1DA5EFD70D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -349,7 +349,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void changeScenes__ctor_m9FB3FCA9B123CE3B8DC4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 131022
+// Method Definition Index: 130922
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ForceCapsuleHeight4_Awake_mF25367B9BB541AF9E8C7F9A699A814948C6ABD0A (ForceCapsuleHeight4_t387AD743AD1B69AAB6EE14A69B6EEC94EF5DD229* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -367,7 +367,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ForceCapsuleHeight4_Awake_mF25367B9BB541
 		return;
 	}
 }
-// Method Definition Index: 131023
+// Method Definition Index: 130923
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ForceCapsuleHeight4_LateUpdate_m5DBFF4DBDA0AA9F7F9C669A39D376783EC25327F (ForceCapsuleHeight4_t387AD743AD1B69AAB6EE14A69B6EEC94EF5DD229* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -420,7 +420,7 @@ IL_000e:
 		return;
 	}
 }
-// Method Definition Index: 131024
+// Method Definition Index: 130924
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ForceCapsuleHeight4__ctor_mCF22A00E3BC36594B2058B7AB794F9B523214EC7 (ForceCapsuleHeight4_t387AD743AD1B69AAB6EE14A69B6EEC94EF5DD229* __this, const RuntimeMethod* method) 
 {
 	{
@@ -440,7 +440,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ForceCapsuleHeight4__ctor_mCF22A00E3BC36
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 131025
+// Method Definition Index: 130925
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (Readme_tE17B99201D0F52BD5727638AD3F41072A65B3BBB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -456,7 +456,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Readme__ctor_m69C325C4C171DCB0312B646A90
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 131026
+// Method Definition Index: 130926
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (Section_t50C894D0A717C2368EBAAE5477D4E8626D0B5401* __this, const RuntimeMethod* method) 
 {
 	{
@@ -472,7 +472,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Section__ctor_m5F732533E4DFC0167D965E5F5
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 131027
+// Method Definition Index: 130927
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -506,7 +506,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC
 		return L_6;
 	}
 }
-// Method Definition Index: 131028
+// Method Definition Index: 130928
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E* __this, const RuntimeMethod* method) 
 {
 	{
