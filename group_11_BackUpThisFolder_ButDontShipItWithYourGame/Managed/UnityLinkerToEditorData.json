@@ -290,7 +290,9 @@
           },
           {
             "name": "Light",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -302,13 +304,17 @@
           },
           {
             "name": "LightProbes",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "LightingSettings",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -434,7 +440,9 @@
           },
           {
             "name": "ReflectionProbe",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -1045,7 +1053,9 @@
         "dependencies": [
           {
             "name": "BoxCollider",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
