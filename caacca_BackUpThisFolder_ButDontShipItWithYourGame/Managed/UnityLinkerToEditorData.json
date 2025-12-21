@@ -12,9 +12,7 @@
           },
           {
             "name": "NavMeshData",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -33,23 +31,8 @@
           {
             "name": "NavMeshSettings",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -66,7 +49,7 @@
           {
             "name": "Animation",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity"
+              "Assets/Aspoc 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -74,23 +57,8 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -98,23 +66,8 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -122,23 +75,8 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -152,47 +90,8 @@
           {
             "name": "Avatar",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
-            "name": "Behaviour",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -211,25 +110,7 @@
           },
           {
             "name": "PositionConstraint",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -258,23 +139,8 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -282,23 +148,8 @@
           {
             "name": "AudioClip",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -306,23 +157,8 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -336,23 +172,8 @@
           {
             "name": "AudioResource",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -360,23 +181,8 @@
           {
             "name": "AudioSource",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -413,23 +219,8 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -443,7 +234,7 @@
           {
             "name": "ComputeShader",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -451,23 +242,8 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -487,23 +263,8 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -517,23 +278,8 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -565,23 +311,8 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -589,23 +320,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -618,28 +333,16 @@
           },
           {
             "name": "LightProbes",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "LightingSettings",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -647,23 +350,8 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -683,23 +371,8 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -707,23 +380,8 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -731,23 +389,8 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -755,23 +398,8 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -779,23 +407,8 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -809,23 +422,8 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -833,23 +431,8 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -887,23 +470,8 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -911,23 +479,7 @@
           {
             "name": "ReflectionProbe",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -935,23 +487,8 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -959,22 +496,7 @@
           {
             "name": "RenderTexture",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1000,23 +522,8 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1030,23 +537,8 @@
           {
             "name": "SkinnedMeshRenderer",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1060,23 +552,8 @@
           {
             "name": "SortingGroup",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1084,23 +561,8 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1114,23 +576,8 @@
           {
             "name": "SpriteRenderer",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1639,23 +1086,13 @@
         "dependencies": [
           {
             "name": "ParticleSystem",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "ParticleSystemRenderer",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           }
@@ -1667,23 +1104,8 @@
           {
             "name": "BoxCollider",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1691,23 +1113,8 @@
           {
             "name": "CapsuleCollider",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1745,23 +1152,8 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1775,7 +1167,7 @@
           {
             "name": "PhysicsMaterial",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity"
+              "Assets/Aspoc 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1783,23 +1175,8 @@
           {
             "name": "Rigidbody",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1807,23 +1184,8 @@
           {
             "name": "SphereCollider",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2229,23 +1591,8 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2288,71 +1635,23 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "CanvasGroup",
-            "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/LocomotionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc 1.unity",
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2542,22 +1841,7 @@
           {
             "name": "VideoClip",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2565,22 +1849,7 @@
           {
             "name": "VideoPlayer",
             "scenes": [
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/BodyPoseDetectionExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/DistanceGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/GestureExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandGrabUseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/HandOnHandInteraction.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PanelWithManipulators.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PokeExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/PoseExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/RayExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/SnapExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TouchGrabExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/TransformerExamples.unity",
-              "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/UISetExamples.unity"
+              "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
             "icon": null
