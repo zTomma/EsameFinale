@@ -18,6 +18,10 @@
     },
     {
       "Type": 0,
+      "Text": "[Unity.InputSystem] - System.Void UnityEngine.InputSystem.FastTouchscreen::.ctor() - High Variable Count of 315"
+    },
+    {
+      "Type": 0,
       "Text": "[Unity.TextMeshPro] - System.Void TMPro.TextMeshPro::GenerateTextMesh() - High Variable Count of 220"
     },
     {
@@ -55,10 +59,6 @@
     {
       "Type": 0,
       "Text": "[Unity.ProBuilder] - System.Void UnityEngine.ProBuilder.ColorUtility::.cctor() - High CodeSize of 41987"
-    },
-    {
-      "Type": 0,
-      "Text": "[Unity.InputSystem] - System.Void UnityEngine.InputSystem.FastTouchscreen::.ctor() - High Variable Count of 315"
     },
     {
       "Type": 0,

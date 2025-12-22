@@ -28,6 +28,9 @@ extern void changeScenes__ctor_m9FB3FCA9B123CE3B8DC44FEC025A7D6BDE1364A5 (void);
 extern void ForceCapsuleHeight4_Awake_mF25367B9BB541AF9E8C7F9A699A814948C6ABD0A (void);
 extern void ForceCapsuleHeight4_LateUpdate_m5DBFF4DBDA0AA9F7F9C669A39D376783EC25327F (void);
 extern void ForceCapsuleHeight4__ctor_mCF22A00E3BC36594B2058B7AB794F9B523214EC7 (void);
+extern void GoalEffects_Reset_mC7CA29D9A083FBBC11E9052152BCE81236ACB4A8 (void);
+extern void GoalEffects_OnTriggerEnter_m1EB459FA1959094593DC1BAEE290E76A77585645 (void);
+extern void GoalEffects__ctor_mBADC695DE894E807909B742210C261528016B3A0 (void);
 extern void ResetBalls_Awake_mE80CC41FF673029C9591D84A030324A11D26213B (void);
 extern void ResetBalls_ResetAllBalls_m471B1947A59CDFB1C1FD2FB7E298F1664449A9EB (void);
 extern void ResetBalls__ctor_m83981456C2A347D38AC3AD32A4FF2BE8A0182014 (void);
@@ -35,7 +38,7 @@ extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
 extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[28] = 
+static Il2CppMethodPointer s_methodPointers[31] = 
 {
 	SceneSwitcher_VaiAdAspoc1_mA0204DC4362BD04B1DE1DA2566D9077E90597772,
 	SceneSwitcher__ctor_m286A74582BD4C6059DACBC69C75EE335165E73DA,
@@ -58,6 +61,9 @@ static Il2CppMethodPointer s_methodPointers[28] =
 	ForceCapsuleHeight4_Awake_mF25367B9BB541AF9E8C7F9A699A814948C6ABD0A,
 	ForceCapsuleHeight4_LateUpdate_m5DBFF4DBDA0AA9F7F9C669A39D376783EC25327F,
 	ForceCapsuleHeight4__ctor_mCF22A00E3BC36594B2058B7AB794F9B523214EC7,
+	GoalEffects_Reset_mC7CA29D9A083FBBC11E9052152BCE81236ACB4A8,
+	GoalEffects_OnTriggerEnter_m1EB459FA1959094593DC1BAEE290E76A77585645,
+	GoalEffects__ctor_mBADC695DE894E807909B742210C261528016B3A0,
 	ResetBalls_Awake_mE80CC41FF673029C9591D84A030324A11D26213B,
 	ResetBalls_ResetAllBalls_m471B1947A59CDFB1C1FD2FB7E298F1664449A9EB,
 	ResetBalls__ctor_m83981456C2A347D38AC3AD32A4FF2BE8A0182014,
@@ -66,7 +72,7 @@ static Il2CppMethodPointer s_methodPointers[28] =
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[28] = 
+static const int32_t s_InvokerIndices[31] = 
 {
 	20627,
 	20627,
@@ -90,18 +96,21 @@ static const int32_t s_InvokerIndices[28] =
 	20627,
 	20627,
 	20627,
+	15862,
 	20627,
 	20627,
 	20627,
 	20627,
-	33394,
+	20627,
+	20627,
+	33395,
 	20627,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	28,
+	31,
 	s_methodPointers,
 	0,
 	NULL,

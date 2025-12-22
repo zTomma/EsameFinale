@@ -47,14 +47,6 @@
         "name": "Animation",
         "dependencies": [
           {
-            "name": "Animation",
-            "scenes": [
-              "Assets/Aspoc 1.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
             "name": "AnimationClip",
             "scenes": [
               "Assets/Aspoc 1.unity",
@@ -320,6 +312,7 @@
           {
             "name": "Light",
             "scenes": [
+              "Assets/Aspoc 1.unity",
               "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
@@ -334,6 +327,7 @@
           {
             "name": "LightProbes",
             "scenes": [
+              "Assets/Aspoc 1.unity",
               "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
@@ -342,6 +336,7 @@
           {
             "name": "LightingSettings",
             "scenes": [
+              "Assets/Aspoc 1.unity",
               "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
@@ -479,6 +474,7 @@
           {
             "name": "ReflectionProbe",
             "scenes": [
+              "Assets/Aspoc 1.unity",
               "Assets/Aspoc.unity"
             ],
             "dependencyType": 0,
@@ -1086,13 +1082,17 @@
         "dependencies": [
           {
             "name": "ParticleSystem",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc 1.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "ParticleSystemRenderer",
-            "scenes": [],
+            "scenes": [
+              "Assets/Aspoc 1.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           }
